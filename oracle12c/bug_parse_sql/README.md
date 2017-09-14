@@ -1,4 +1,4 @@
-# Oracle 12c Bug - Parse Big Queries
+# Oracle 12c Bug - Parse Large Queries
 
 
 **Oracle is not parsing large queries**
